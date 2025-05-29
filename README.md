@@ -1,6 +1,6 @@
 # Welcome to Self-guided Workshop
 ## Overview
-大学の学生スタッフとして勤務している部署で制作したものです。
+大学の学生スタッフとして勤務している部署で制作したものです。　　
 Self-guided Workshopのブックマークが簡素であったため、皆さんが使いやすいようにデザインしました。  
 これからAdobeを学ぶ人に少しでも役立てば嬉しいです。
 ## Usage
